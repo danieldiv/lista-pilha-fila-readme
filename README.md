@@ -33,7 +33,6 @@
 0. Sair
 
 ## Status
-> Status do Projeto: Em desenvolvimento :warning:
 
 > Problema 1: Em desenvolvimento :warning:
 
@@ -42,6 +41,8 @@
 > Problema 3: Em desenvolvimento :warning:
 
 > Problema 4: Em desenvolvimento :warning:
+
+> Status do Projeto: Em desenvolvimento :warning:
 
 > Configuração de ambiente: Concluido :heavy_check_mark:
 
