@@ -4,8 +4,8 @@
 ### Organização dos problemas
 - Problema 1: Listas
 	- Questao A
-		- Questao B
-			- Questao C
+	- Questao B
+	- Questao C
 
 - Problema 2: Pilhas
 	- Questao A
@@ -17,14 +17,6 @@
 	- Questao B
 
 - Problema 4
-
-### Usando um task list, marcando tarefa como completada ou não
-
-- [ ] Problema 1
-- [ ] Problema 2
-- [ ] Problema 3
-- [ ] Problema 4
-- [X] Configuração de ambiente
 
 ### Menu de opções
 
@@ -45,7 +37,7 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-> Configuração de ambiente: Concluido :heavy_check_mark:
+> Configuração do README: Concluido :heavy_check_mark:
 
 ### Codigo
 
