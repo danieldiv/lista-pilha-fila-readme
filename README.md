@@ -29,7 +29,15 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-### Tabela:
+### Tabela
 |name|email|pontuacao|dataEntrega|curso|
 | -------- | -------- | -------- |-------- | -------- |
 |Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
+
+### Codigo
+
+```
+void teste() {
+	printf("Teste do codigo\n");
+}
+```
