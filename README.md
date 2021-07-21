@@ -22,8 +22,8 @@
 
 - [X] Problema 1
 - [ ] Problema 2
-- [ ] Problema 3
-- [X] Problema 4
+	- [ ] Problema 3
+	- [X] Problema 4
 
 ### Menu de opções
 
