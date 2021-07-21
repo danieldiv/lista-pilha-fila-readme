@@ -20,10 +20,11 @@
 
 ### Usando um task list, marcando tarefa como completada ou não
 
-- [X] Problema 1
+- [ ] Problema 1
 - [ ] Problema 2
-	- [ ] Problema 3
-	- [X] Problema 4
+- [ ] Problema 3
+- [ ] Problema 4
+- [X]
 
 ### Menu de opções
 
