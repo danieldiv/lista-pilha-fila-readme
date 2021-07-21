@@ -3,18 +3,18 @@
 
 ### Visão geral dos problemas
 - Problema 1: Listas
-	- Questao A ...
-	- Questao B ...
-	- Questao C ...
+	- Questao A
+	- Questao B
+	- Questao C
 
 - Problema 2: Pilhas
-	- Questao A ...
-	- Questao B ...
-	- Questao C ...
+	- Questao A
+	- Questao B
+	- Questao C
 
 - Problema 3: Filas
-	- Questao A ...
-	- Questao B ...
+	- Questao A
+	- Questao B
 
 - Problema 4
 
@@ -25,23 +25,17 @@
 - [ ] Problema 3
 - [X] Problema 4
 
-### Lista ordenada
+### Menu de opções
 
 1. Listagem ordenada 1
 2. Listagem ordenada 2
+3. Informações
+0. Sair
 
 ## Status
-> Status do Projeto: Concluido :heavy_check_mark:
-
 > Status do Projeto: Em desenvolvimento :warning:
 
-### Tabela
-|name|email|pontuacao|dataEntrega|curso|
-| -------- | -------- | -------- |-------- | -------- |
-|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
-|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
-|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
-|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
+> Configuração de ambiente: Concluido :heavy_check_mark:
 
 ### Codigo
 
