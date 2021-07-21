@@ -23,4 +23,4 @@
 ### Participante:
 |name|email|present|receiveCertificate|course|
 | -------- | -------- | -------- |-------- | -------- |
-|Chaiana Hermes|chaiana_hermes@yahoo.com.br|true|false|Bootcamp React|
+|Chaiana Hermes|das.29@outlook.com|true|false|Bootcamp React|
