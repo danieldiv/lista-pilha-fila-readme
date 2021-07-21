@@ -1,4 +1,6 @@
 # Pratica n2
+
+## Proposta do projeto
 <p align="justify">Treinamento em Listas, Pilhas e Filas Estáticas e Dinâmicas</p>
 
 ### Listas não ordenadas
