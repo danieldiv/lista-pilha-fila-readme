@@ -1,11 +1,11 @@
 # Pratica n2
 <p align="justify">Treinamento em Listas, Pilhas e Filas Estáticas e Dinâmicas</p>
 
-### Visão geral dos problemas
+### Organização dos problemas
 - Problema 1: Listas
 	- Questao A
 		- Questao B
-		- Questao C
+			- Questao C
 
 - Problema 2: Pilhas
 	- Questao A
