@@ -7,8 +7,10 @@
 
 ### Usando um task list, marcando tarefa como completada ou não
 
-- [X] Cadastro de conta com Google
-- [ ] Cadastro de conta com Google
+- [X] Problema 1
+- [ ] Problema 2
+- [ ] Problema 3
+- [X] Problema 4
 
 ### Lista ordenada
 
@@ -20,7 +22,7 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-### Participante:
+### Tabela:
 |name|email|pontuacao|dataEntrega|curso|
 | -------- | -------- | -------- |-------- | -------- |
 |Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
