@@ -1,6 +1,4 @@
 # Pratica n2
-
-## Proposta do projeto
 <p align="justify">Treinamento em Listas, Pilhas e Filas Estáticas e Dinâmicas</p>
 
 ### Listas não ordenadas
@@ -15,3 +13,7 @@
 ### Lista ordenada
 
 1. Listagem ordenada
+
+## Status
+> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Em desenvolvimento :warning:
