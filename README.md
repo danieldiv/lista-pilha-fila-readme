@@ -25,6 +25,14 @@
 3. Informações
 0. Sair
 
+
+### Usando um task list, marcando tarefa como completada ou não
+
+- [X] Problema 1
+- [ ] Problema 2
+- [ ] Problema 3
+- [X] Problema 4
+
 ## Status
 
 > Problema 1: Em desenvolvimento :warning:
@@ -40,6 +48,15 @@
 > Configuração do README: Concluido :heavy_check_mark:
 
 ### Codigo
+
+### Tabela
+|name|email|pontuacao|dataEntrega|curso|
+| -------- | -------- | -------- |-------- | -------- |
+|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
+|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
+|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
+|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
+
 
 ```
 void teste() {
