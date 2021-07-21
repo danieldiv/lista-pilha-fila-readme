@@ -21,6 +21,6 @@
 > Status do Projeto: Em desenvolvimento :warning:
 
 ### Participante:
-|name|email|present|receiveCertificate|course|
+|name|email|pontuacao|dataEntrega|course|
 | -------- | -------- | -------- |-------- | -------- |
-|Chaiana Hermes|das.29@outlook.com|true|false|Bootcamp React|
+|Daniel Sanches|das.29@outlook.com|25|6 ago 2021|Aeds & LabAeds|
