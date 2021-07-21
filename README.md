@@ -4,8 +4,8 @@
 ### Visão geral dos problemas
 - Problema 1: Listas
 	- Questao A
-	- Questao B
-	- Questao C
+		- Questao B
+		- Questao C
 
 - Problema 2: Pilhas
 	- Questao A
