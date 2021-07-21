@@ -24,7 +24,7 @@
 - [ ] Problema 2
 - [ ] Problema 3
 - [ ] Problema 4
-- [X]
+- [X] Configuração de ambiente
 
 ### Menu de opções
 
