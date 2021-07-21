@@ -12,9 +12,15 @@
 
 ### Lista ordenada
 
-1. Listagem ordenada
+1. Listagem ordenada 1
+2. Listagem ordenada 2
 
 ## Status
 > Status do Projeto: Concluido :heavy_check_mark:
 
 > Status do Projeto: Em desenvolvimento :warning:
+
+### Tabela:
+|name|email|pontuavel?|course|
+| -------- | -------- | -------- |-------- | -------- |
+|Daniel Sanches|das.29@outlook.com|true|Aeds & LabAeds|
