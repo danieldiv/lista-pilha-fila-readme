@@ -61,3 +61,7 @@ void teste() {
 	printf("Teste do codigo\n");
 }
 ```
+
+	void teste() {
+		printf("Teste do codigo\n");
+	}
