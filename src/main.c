@@ -1,6 +1,6 @@
-// #include "lista.h"
+#include "lista.h"
 // #include "pilha.h"
-#include "fila.h"
+// #include "fila.h"
 
 int main() {
 
@@ -11,35 +11,35 @@ int main() {
 		UTILIZANDO FILA
 	*/
 
-	// Lista *l;
-	// FLVazia(l);
+	Lista l;
+	FLVazia(&l);
 
 
-	// for(int i=0; i < 7; i++) {
-	// 	LInsere(l, vet[i]);
-	// }
-	// Limprime(l);
+	for(int i=0; i < 7; i++) {
+		LInsere(&l, vet[i]);
+	}
+	Limprime(&l);
 
 	/*
 		UTILIZANDO PILHA
 	*/
 
-	// Pilha *p;
-	// FPVazia(p);
+	// Pilha p;
+	// FPVazia(&p);
 
 	// for(int i=0; i < 7; i++) {
-	// 	Push(p, vet[i]);
+	// 	Push(&p, vet[i]);
 	// }
-	// Pimprime(p);
+	// Pimprime(&p);
 	// printf("\n");
 
-	// while(p != NULL) {
-	// 	Pop(p, &item);
+	// while(&p != NULL) {
+	// 	Pop(&p, &item);
 
-	// 	if(p->base == p->top || p == NULL)
+	// 	if(p.base == p.top || &p == NULL)
 	// 		break;
 
-	// 	Pimprime(p);
+	// 	Pimprime(&p);
 	// 	printf("\n");
 	// }
 
@@ -47,30 +47,30 @@ int main() {
 		UTILIZANDO FILA
 	*/
 
-	Fila *f;
-	FFVazia(f);
+	// Fila f;
+	// FFVazia(&f);
 
-	for(int i=0; i < 7; i++) {
-		Enfileira(f, vet[i]);
-	}
-	Fimprime(f);
-	printf("\n");
+	// for(int i=0; i < 7; i++) {
+	// 	Enfileira(&f, vet[i]);
+	// }
+	// Fimprime(&f);
+	// printf("\n");
 
-	while(f != NULL) {
-		Desenfileira(f, &item);
-		Fimprime(f);
-		printf("\n");
+	// while(&f != NULL) {
+	// 	Desenfileira(&f, &item);
+	// 	Fimprime(&f);
+	// 	printf("\n");
 
-		if(f->first == f->last || f == NULL || f->first->prox == NULL){
-			break;
-		}
-	}
+	// 	if(f.first == f.last || &f == NULL || f.first->prox == NULL){
+	// 		break;
+	// 	}
+	// }
 
-	for(int i=0; i < 7; i++) {
-		Enfileira(f, vet[i]);
-		Fimprime(f);
-		printf("\n");
-	}
+	// for(int i=0; i < 7; i++) {
+	// 	Enfileira(&f, vet[i]);
+	// 	Fimprime(&f);
+	// 	printf("\n");
+	// }
 
 	return 0;
 }
