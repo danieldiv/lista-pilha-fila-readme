@@ -3,8 +3,12 @@
 
 ## Sumario
 <!--ts-->
-   * [Organiza](#Tabela)
+   * [Organização dos problemas](#organiza%C3%A7%C3%A3o-dos-problemas)
+   * [Menu de opções](#menu-de-op%C3%A7%C3%B5es)
+   * [Usando um task list](#usando-um-task-list-marcando-tarefa-como-completada-ou-n%C3%A3o)
    * [Status](#status)
+   * [Tabela](#tabela)
+   * [Codigo](#codigo)
 <!--te-->
 
 ### Organização dos problemas
