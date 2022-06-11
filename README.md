@@ -12,7 +12,7 @@
 <!--te-->
 
 - `0` - Detalhe letra e [link interno](src/main.c)
-- `1` - Detalhe letra e [link externo](https://github.com/danieldiv/trabalho-grafo/edit/main/README.md)
+- `1` - Detalhe letra e [link externo](https://github.com/danieldiv/trabalho-grafo/tree/main/src)
 
 ### Organização dos problemas
 - Problema 1: Listas
