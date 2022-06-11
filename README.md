@@ -1,6 +1,14 @@
 # Pratica n2
 <p align="justify">Treinamento em Listas, Pilhas e Filas Estáticas e Dinâmicas</p>
 
+## Sumario
+<!--ts-->
+	* [Organização dos problemas](#Organização dos problemas)
+<!--te-->
+<!--ts-->
+   * [Status](#Status)
+<!--te-->
+
 ### Organização dos problemas
 - Problema 1: Listas
 	- Questao A
