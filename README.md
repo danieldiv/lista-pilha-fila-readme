@@ -3,9 +3,7 @@
 
 ## Sumario
 <!--ts-->
-	* [Organização dos problemas](#Organização dos problemas)
-<!--te-->
-<!--ts-->
+
    * [Status](#Status)
 <!--te-->
 
