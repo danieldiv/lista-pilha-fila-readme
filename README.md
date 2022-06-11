@@ -4,7 +4,7 @@
 ## Sumario
 <!--ts-->
    * [Organiza](#Tabela)
-   * [Status](#Status)
+   * [Status](#status)
 <!--te-->
 
 ### Organização dos problemas
