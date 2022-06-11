@@ -11,6 +11,8 @@
    * [Codigo](#codigo)
 <!--te-->
 
+- `0` - Detalhes e [link interno](src/main.c)
+
 ### Organização dos problemas
 - Problema 1: Listas
 	- Questao A
