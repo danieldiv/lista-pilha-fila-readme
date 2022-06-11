@@ -11,7 +11,8 @@
    * [Codigo](#codigo)
 <!--te-->
 
-- `0` - Detalhes e [link interno](src/main.c)
+- `0` - Detalhe letra e [link interno](src/main.c)
+- `1` - Detalhe letra e [link externo](https://github.com/danieldiv/trabalho-grafo/edit/main/README.md)
 
 ### Organização dos problemas
 - Problema 1: Listas
